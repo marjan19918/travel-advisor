@@ -1,0 +1,10 @@
+.markers{
+    background: white;
+    width: 70px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+    align-items: center;
+}
